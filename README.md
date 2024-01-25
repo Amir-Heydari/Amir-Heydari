@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Repository
+# Welcome to Amir's GitHub Repository
 
 ## Overview
 
